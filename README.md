@@ -1,6 +1,6 @@
 ### Hi there 👋 :smile: I'm Arwan
 <p>
-  I'm a student who still needs to learn a lot about programming. I am a full stack engineer and try to continuously improve my skills. I live in Konawe, Indonesia
+  I'm a student who still needs to learn a lot about programming. I am a full stack engineer and try to continuously improve my skills. I live in Kendari, Indonesia
 </p>
 
 > <i>" Keep learning ✌ "</i>
