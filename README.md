@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there 👋 :smile: I'm Arwan
+<p>
+  I'm a student who still needs to learn a lot about programming. I am a full stack engineer and try to continuously improve my skills. I live in Konawe, Indonesia
+</p>
 
-<!--
-**are-one/are-one** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> <i>" Keep learning ✌ "</i>
+> - Arwan2021
 
-Here are some ideas to get you started:
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=are-one&show_icons=true&theme=radical" alt="Arwan's github stats"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=are-one&show_icons=true&theme=radical" alt="Arwan's github most used"/>
+</div>
+
+## 💖 Connect With Me :
+
+- <a href="https://www.linkedin.com/in/arwan-prianto-mangidi-b17418143/" target="_blank">LinkedIn 😎</a>
+- <a href="mailto:arwanpriantomangidi@gmail.com">Email 📣</a>
+
+<hr/>
+
+## 📋 My Activities :
+
+- Learning as Student 💪
+- Learning 🙌
+- live as human 😄
+
+<hr/>
