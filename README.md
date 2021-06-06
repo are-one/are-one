@@ -14,7 +14,7 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=are-one&show_icons=true&theme=radical" alt="Arwan's github most used"/>
 </div>
 
-## 💖 Connect With Me :
+## ☎️ Connect With Me :
 
 - <a href="https://www.linkedin.com/in/arwan-prianto-mangidi-b17418143/" target="_blank">LinkedIn 😎</a>
 - <a href="mailto:arwanpriantomangidi@gmail.com">Email 📣</a>
