@@ -1,6 +1,6 @@
 ### Hi there 👋 :smile: I'm Arwan
 <p>
-  I am a recent graduate of computer science who aspires to be a professional and qualified expert with good understanding in both theory and practice. I am interested in software engineering and data science. Currently I am still at the Junior programmer stage and try to keep improving my skills step by step to achieve my goals. I live in Kendari, Indonesia
+  I am a fresh graduate of computer science who aspires to be a professional and qualified expert with good understanding in both theory and practice. I am interested in software engineering and data science. Currently I am still at the Junior programmer stage and try to keep improving my skills step by step to achieve my goals. I live in Kendari, Indonesia
 </p>
 
 > <i>" Keep learning ✌ "</i>
