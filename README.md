@@ -1,10 +1,10 @@
 ### Hi there 👋 :smile: I'm Arwan
 <p>
-  I'm a student who still needs to learn a lot about programming. I am a full stack engineer and try to continuously improve my skills. I live in Kendari, Indonesia
+  I am a recent graduate of computer science who aspires to be a professional and qualified expert with good understanding in both theory and practice. I am interested in software engineering and data science. Currently I am still at the Junior programmer stage and try to keep improving my skills step by step to achieve my goals. I live in Kendari, Indonesia
 </p>
 
 > <i>" Keep learning ✌ "</i>
-> - Arwan2021
+> - Arwan2022
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=are-one&show_icons=true&theme=radical" alt="Arwan's github stats"/>
@@ -16,7 +16,7 @@
 
 ## ☎️ Connect With Me :
 
-- <a href="https://www.linkedin.com/in/arwan-prianto-mangidi-b17418143/" target="_blank">LinkedIn 😎</a>
+- <a href="https://www.linkedin.com/in/arwan-prianto-mangidi/" target="_blank">LinkedIn 😎</a>
 - <a href="mailto:arwanpriantomangidi@gmail.com">Email 📣</a>
 
 <hr/>
