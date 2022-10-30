@@ -6,7 +6,7 @@
 > <i>" Keep learning ✌ "</i>
 > - Arwan2022
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=are-one&show_icons=true&theme=radical" alt="Arwan's github stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=are-one&" alt="are-one" />
 </p>
