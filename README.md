@@ -7,10 +7,9 @@
 > - Arwan2022
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=are-one&show_icons=true" alt="Arwan's github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=are-one&show_icons=true&theme=monokai" alt="Arwan's github stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=are-one" alt="are-one" />
 </p>
-
 
 ## ☎️ Connect With Me :
 
